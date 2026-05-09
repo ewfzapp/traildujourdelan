@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ewfzapp.github.io/traildujourdelan/sitemap.xml
